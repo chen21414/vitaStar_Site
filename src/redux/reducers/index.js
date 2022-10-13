@@ -11,7 +11,7 @@ const rootReducer = {
   products: productReducer,
   basket: basketReducer,
   auth: authReducer,
-  profile: productReducer,
+  profile: profileReducer,
   filter: filterReducer,
   user: userReducer,
   checkout: checkoutReducer,
